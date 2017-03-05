@@ -1,2 +1,2 @@
-# SneedDB
-Simple key-value &amp; document store
+# WatchDB
+Simple in-memory, key-value pair job store
